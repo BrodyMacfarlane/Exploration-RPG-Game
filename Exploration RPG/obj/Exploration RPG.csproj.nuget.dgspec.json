@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brody/Projects/Exploration RPG/Exploration RPG/Exploration RPG.csproj": {}
+  },
+  "projects": {
+    "/Users/brody/Projects/Exploration RPG/Exploration RPG/Exploration RPG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brody/Projects/Exploration RPG/Exploration RPG/Exploration RPG.csproj",
+        "projectName": "Exploration RPG",
+        "projectPath": "/Users/brody/Projects/Exploration RPG/Exploration RPG/Exploration RPG.csproj",
+        "packagesPath": "/Users/brody/.nuget/packages/",
+        "outputPath": "/Users/brody/Projects/Exploration RPG/Exploration RPG/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brody/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteNetLib": {
+              "target": "Package",
+              "version": "[0.9.5.2, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "SimplexNoise": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

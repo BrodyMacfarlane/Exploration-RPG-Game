@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OdCb38VR8wHVa8hhMRhY2IpNqFjcAJfJ8bE4Y+obkliMjiSzg+g0qZn5Q9kafuMpJmdL0AJ9K1DB3+k2VX2o0Q==",
+  "success": true,
+  "projectFilePath": "/Users/brody/Projects/Exploration RPG/Exploration RPG/Exploration RPG.csproj",
+  "expectedPackageFiles": [
+    "/Users/brody/.nuget/packages/litenetlib/0.9.5.2/litenetlib.0.9.5.2.nupkg.sha512",
+    "/Users/brody/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/brody/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/Users/brody/.nuget/packages/simplexnoise/2.0.0/simplexnoise.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
